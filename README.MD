@@ -97,12 +97,17 @@ BIENVENUE DANS THE GOSSIP PROJECT
 Tu veux faire quoi jeune mouss' ?
 1. Je veux créer un gossip
 2. Je veux voir la liste des gossips
-3. Je veux supprimer un gossip
-4. Je veux quitter l'app
+3. Je veux supprimer les gossips d'un auteur
+4. Je veux supprimer un gossip spécifique
+5. Je veux quitter l'app
 ```
 
 ## Auteurs
-
-Projet conçu dans le cadre d'un exercice pédagogique Ruby POO.
+- [THIAM](https://github.com/thaliou)
+- [ASSY](https://github.com/AssyaJalo)
+- [SOUARE](https://github.com/bbkouty)
+- [FANAR](https://github.com/fanarbandia)
+- [MAIGA](https://github.com/Fadelion)
 
 ---
+Projet conçu dans le cadre d'un exercice pédagogique Ruby POO.
