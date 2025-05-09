@@ -20,7 +20,10 @@ class Controller
     end
 
     def delete_gossip(author)
-     Gossip.delete(author)
+     Gossip.delete_gossips_by_author(author)
     end
 
+    def delete_gossip_index(index)
+        Gossip.delete_gossips_by_index(index)
+    end
 end
