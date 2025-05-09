@@ -86,9 +86,9 @@ ruby app.rb
 
 ## Prérequis
 
-* Ruby 3.x
+* Ruby >= 2.7.0
 * Bundler
-* Gems : `csv`, `pry` (pour le debug si besoin)
+* Gems : `csv`, `pry` (pour le debug si besoin), `colorize`, `faker`
 
 ## Exemple d'utilisation
 
